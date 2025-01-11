@@ -1,0 +1,10 @@
+genetic-data-analysis-tool/
+├── analysis/
+│   ├── mutation_detection.py
+│   └── pattern_recognition.py
+├── data/
+│   └── sample_sequence.fasta
+├── reports/
+│   └── genetic_report.txt
+├── main.py
+└── requirements.txt
